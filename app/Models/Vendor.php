@@ -11,7 +11,7 @@ class Vendor extends Model
     use HasFactory, SoftDeletes;
 
     protected $fillable = [
-        'vendor_id', 'user_id', 'vendor_name', 'address'
+        'user_id', 'vendor_name', 'vendor_address'
     ];
 
     public function user()
@@ -28,5 +28,5 @@ class Vendor extends Model
     {
         return $this->hasMany(Order::class);
     }
-    
+
 }
