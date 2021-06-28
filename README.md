@@ -80,6 +80,14 @@ $ composer install
   ```$ php artisan serve```
 
 
+## Contributing
+Thank you for considering contributing to this small Laravel|Vue project! For contribution discuss, please email to Akinshola Samuel [akinsholasamuel@gmail.com](mailto:akinsholasamuel@gmail.com).
+
+
+## Security Vulnerabilities
+If you discover a vulnerability or bugs within this project, please send an e-mail to Akinshola Samuel via [akinsholasamuel@gmail.com](mailto:akinsholasamuel@gmail.com). All bugs and vulnerabilities will be promptly addressed.
+
+
 ## Built With
 * [Laravel](https://laravel.com) - The PHP framework for building the API endpoints needed for the application
 * [Vue](https://vuejs.org) - The Progressive JavaScript Framework for building interactive interfaces
